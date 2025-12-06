@@ -1,0 +1,11 @@
+===== INVOICE =====
+Name: mohamed
+Phone: 01155626246
+Address: Assiut
+----------------------------
+Bag x 3 = 450.0 EGP
+----------------------------
+Total: 450.0 EGP
+Discount: 0.0%
+Final Price: 450.0 EGP
+============================
