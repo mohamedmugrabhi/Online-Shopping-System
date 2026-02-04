@@ -229,7 +229,7 @@ public class ShoppingService {
         double total = cartService.getTotal();
         double finalPrice = total - (total * discountPercent / 100);
 
-        // Print invoice on screen
+        
         Utils.printLine();
         System.out.println("Order Number: " + Utils.generateOrderNumber());
         Utils.printLine();
