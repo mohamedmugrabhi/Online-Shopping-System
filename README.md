@@ -57,7 +57,7 @@ src/
 
 ## 👤 Author
 
-خليها:
+
 ```md
 **Mohamed Mugrabhi**  
 Software Engineering Student – Assiut University
